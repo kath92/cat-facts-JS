@@ -1,0 +1,25 @@
+.navbar{
+    background-color: rgb(236, 115, 99);
+}
+
+.div-for-facts{
+    background-color: burlywood;
+}
+.small-image {
+    width: 30px;
+    height: 30px;
+}
+
+table{
+    border: 2px solid black;
+}
+
+.jumbotron,
+#catFacts{
+    background-color: red(255, 249, 231);
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
